@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85222" started-at="2022-09-13T08:05:56 BRT" finished-at="2022-09-13T08:07:21 BRT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85222" started-at="2022-09-13T08:05:56 BRT" finished-at="2022-09-13T08:07:21 BRT">
+      <class name="com.teste.validacao.CT03ValidarPaginaCheckout">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.teste.validacao.CT03ValidarPaginaCheckout@4493d195]" name="setUp" is-config="true" duration-ms="8374" started-at="2022-09-13T08:05:56 BRT" finished-at="2022-09-13T08:06:04 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCT03ValidarPaginaCheckout()[pri:0, instance:com.teste.validacao.CT03ValidarPaginaCheckout@4493d195]" name="testCT03ValidarPaginaCheckout" duration-ms="12611" started-at="2022-09-13T08:06:04 BRT" finished-at="2022-09-13T08:06:17 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCT03ValidarPaginaCheckout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.teste.validacao.CT03ValidarPaginaCheckout@4493d195]" name="tearDown" is-config="true" duration-ms="3112" started-at="2022-09-13T08:06:17 BRT" finished-at="2022-09-13T08:06:20 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.teste.validacao.CT03ValidarPaginaCheckout -->
+      <class name="com.teste.validacao.CT01ValidarEspecificacaoProduto">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.teste.validacao.CT01ValidarEspecificacaoProduto@11438d26]" name="setUp" is-config="true" duration-ms="6968" started-at="2022-09-13T08:06:20 BRT" finished-at="2022-09-13T08:06:27 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCT01ValidarEspecificacaoProduto()[pri:0, instance:com.teste.validacao.CT01ValidarEspecificacaoProduto@11438d26]" name="testCT01ValidarEspecificacaoProduto" duration-ms="8292" started-at="2022-09-13T08:06:27 BRT" finished-at="2022-09-13T08:06:35 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCT01ValidarEspecificacaoProduto -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.teste.validacao.CT01ValidarEspecificacaoProduto@11438d26]" name="tearDown" is-config="true" duration-ms="3119" started-at="2022-09-13T08:06:35 BRT" finished-at="2022-09-13T08:06:38 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.teste.validacao.CT01ValidarEspecificacaoProduto -->
+      <class name="com.teste.validacao.CT04RemoverProdutosCarrinhoCompras">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.teste.validacao.CT04RemoverProdutosCarrinhoCompras@34cd072c]" name="setUp" is-config="true" duration-ms="6994" started-at="2022-09-13T08:06:38 BRT" finished-at="2022-09-13T08:06:45 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCT04RemoverProdutosCarrinhoCompras()[pri:0, instance:com.teste.validacao.CT04RemoverProdutosCarrinhoCompras@34cd072c]" name="testCT04RemoverProdutosCarrinhoCompras" duration-ms="12268" started-at="2022-09-13T08:06:45 BRT" finished-at="2022-09-13T08:06:57 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCT04RemoverProdutosCarrinhoCompras -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.teste.validacao.CT04RemoverProdutosCarrinhoCompras@34cd072c]" name="tearDown" is-config="true" duration-ms="2751" started-at="2022-09-13T08:06:57 BRT" finished-at="2022-09-13T08:07:00 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.teste.validacao.CT04RemoverProdutosCarrinhoCompras -->
+      <class name="com.teste.validacao.CT02ValidarAlteracaoCorProdutoCarrinho">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.teste.validacao.CT02ValidarAlteracaoCorProdutoCarrinho@7a1ebcd8]" name="setUp" is-config="true" duration-ms="7018" started-at="2022-09-13T08:07:00 BRT" finished-at="2022-09-13T08:07:07 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCT02ValidarAlteracaoCorProdutoCarrinho()[pri:0, instance:com.teste.validacao.CT02ValidarAlteracaoCorProdutoCarrinho@7a1ebcd8]" name="testCT02ValidarAlteracaoCorProdutoCarrinho" duration-ms="10510" started-at="2022-09-13T08:07:07 BRT" finished-at="2022-09-13T08:07:18 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCT02ValidarAlteracaoCorProdutoCarrinho -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.teste.validacao.CT02ValidarAlteracaoCorProdutoCarrinho@7a1ebcd8]" name="tearDown" is-config="true" duration-ms="3134" started-at="2022-09-13T08:07:18 BRT" finished-at="2022-09-13T08:07:21 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.teste.validacao.CT02ValidarAlteracaoCorProdutoCarrinho -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

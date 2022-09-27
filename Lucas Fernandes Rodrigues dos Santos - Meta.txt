@@ -1,0 +1,18 @@
+
+
+
+ 1-) Entre os vários métodos para cobrir os testes, os que já atuei foram:
+ - Casos de uso: Descrevendo as interações entre os autores, onde possuem pré-condições para serem atendidas para atingir o funcionamento correto da alicação
+- Ténicas baseada na experiência: Baseados na experiência com aplicativos e tecnologias semelhantes
+- Histórias do usuário: Descrevendo a funcionalidade que será implementada, critérios de aceitação e os requisitos não funcionais.
+- Análise do Valor limite.
+ 
+ 2-)
+ Entre as técnicas de software que temos, já atuei com os testes funcionais(Caixa preta) analisando os requisitos do sistema,e validando se o software cumpre as funções que deveriam executar, seguindo as ações que foram previamente definidas na etapa de especificação de requisitos. 
+ Teste de caixa branca: Utilizando o código-fonte para fazer testes de unidade.
+ Teste de integração: Analisando a integração de dados entre frontend e backend.
+ Teste de Carga e stress: Usando o JMeter para testar o desempenho e limites de trafego de informações
+ Teste de aceitação: Validando se o funcionamento do software satisfaz as necessidades do que foi proposto.
+
+3-) Especificação funcional, mapa mental e BDD
+
